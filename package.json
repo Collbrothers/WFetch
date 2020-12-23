@@ -1,0 +1,21 @@
+{
+  "name": "wfetch",
+  "version": "1.2.0",
+  "description": "The equivalent of ufetch but for windows!",
+  "main": "index.js",
+  "readme": "README.md",
+  "keywords": [
+    "ufetch",
+    "wfetch",
+    "userinfo",
+    "terminal"
+  ],
+  "bin": {
+    "wfetch": "index.js"
+  },
+  "author": "Collbrothers",
+  "license": "ISC",
+  "dependencies": {
+    "process": "^0.11.10"
+  }
+}
